@@ -1,0 +1,7 @@
+aiohttp
+aiofiles
+apscheduler
+pyrogram
+python-dotenv
+requests
+tgcrypto
